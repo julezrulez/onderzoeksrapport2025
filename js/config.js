@@ -6,9 +6,9 @@ var respecConfig = {
   specType: "HR",
   pubDomain: "dk",
   shortName: "template",
-  publishDate: "2022-06-24",
+  publishDate: "2023-01-31",
   publishVersion: "0.0.1",
-  title: "titleText",
+  title: "Template",
   // previousPublishVersion: "(none)",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
