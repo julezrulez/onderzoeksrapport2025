@@ -37,4 +37,5 @@ var respecConfig = {
           uri: "template.pdf",
       },
   ],
+  postProcess: [window.respecMermaid.createFigures]
 };
