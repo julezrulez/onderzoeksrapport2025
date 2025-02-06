@@ -1,20 +1,84 @@
-name: Build and Check
+name: Extract Transform Load - extract markdown from docx with pandoc
+run-name: docx ➡️  html after document change by ${{ github.actor }}
+
 on:
-  workflow_dispatch:
-  pull_request:
   push:
-    branches:
-      - main
+    paths: [ '*.docx', '*.md', '*.js', 'index.html' ]
+  workflow_dispatch:
 jobs:
   build:
     name: Build
-    uses: Logius-standaarden/Automatisering/.github/workflows/build.yml@main
-  check:
-    needs: build
-    name: Check
-    uses: Logius-standaarden/Automatisering/.github/workflows/check.yml@main    
-  publish:
-    needs: build
-    name: Publish (Logius)
-    uses: Logius-standaarden/Automatisering/.github/workflows/publish.yml@main
-    secrets: inherit
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          ref: ${{ github.head_ref }}
+      - name: Install git, pandoc and xmlstartlet
+        uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: git pandoc xmlstarlet
+      - uses: actions/setup-node@v4
+        with:
+          cache: 'npm'
+      - name: Install ReSpec
+        run: npm ci
+      - name: Check for docx changes
+        id: diff-check-docx
+        run: |
+          C=$(git diff ${{ github.sha }}^ '*.docx')
+          echo "$C"
+          if [ -z "$C" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Run Extract Transform Load
+        if: steps.diff-check-docx.outputs.changed == 'true'
+        run: |
+          echo "Updating permissions on extract-transform-load.sh script"
+          chmod +x extract-transform-load.sh
+          echo "Run extract-transform-load.sh"
+          ./extract-transform-load.sh
+          git add .
+      - name: Check for md changes
+        id: diff-check-md
+        run: |
+          C=$(git diff --summary ${{ github.sha }}^ '*.md')
+          echo "$C"
+          if [ -z "$C" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Create new index.html based on changed markdown files
+        if: steps.diff-check-md.outputs.changed == 'true'
+        run: |
+          echo "Create new index.html"
+          xmlstarlet ls \
+          | xmlstarlet tr index.html.xslt \
+          | xmlstarlet c14n \
+          | sed -r 's@></(meta|link)>@ />@g;1i<!DOCTYPE html>' \
+          > index.html
+          git add .
+      - name: Check for md, js or index.html changes
+        id: diff-check-md-js-index
+        run: |
+          C=$(git diff ${{ github.sha }}^ '*.md' '*.js' index.html)
+          echo "$C"
+          if [ -z "$C" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Create new report.html with ReSpec
+        if: steps.diff-check-md-js-index.outputs.changed == 'true'
+        run: |
+          echo 0 | sudo tee /proc/sys/kernel/apparmor_restrict_unprivileged_userns
+          npx respec --localhost --src index.html --out report.html
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 🤖 rebuild after document change by ${{ github.actor }}

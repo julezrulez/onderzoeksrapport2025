@@ -1,3 +1,3 @@
-# ReSpec template Logius
+# ReSpec sample template ICTU
 
-Template voor Afdeling Standaarden.
+Template voor ICTU rapport.
