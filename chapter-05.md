@@ -5,7 +5,7 @@ Om antwoord te kunnen geven op deze vraag, is de Nederlandse vertegenwoordiging 
 
 ## Beschrijving en terminologie van verzamelde gegevens
 
-Voor de doeleinden van dit onderzoek wordt **participatie** beschouwd **als deelname aan het vormgeven van internationale standaarden**. Hierbij wordt onderscheid gemaakt tussen **drie verschillende eigenschappen van participatie: 1) representatievorm, 2) participatieobject en 3) participatiemethode**.
+Voor de doeleinden van dit onderzoek wordt **participatie** beschouwd **als deelname aan het vormgeven van internationale standaarden**. Hierbij wordt onderscheid gemaakt tussen drie verschillende eigenschappen van participatie**: 1) representatievorm, 2) participatieobject en 3) participatiemethode**.
 
 De verzamelde gegevens voor het kwantitatief in kaart brengen van participatie zijn over de verschillende SDO’s gestandaardiseerd samengevoegd in de volgende algemene vorm per participatie:
 
@@ -190,7 +190,7 @@ Tabel 3 Het aantal Nederlandse participaties per organisatietype over de periode
 
 Toelichting: Van het totaal ontbreken IEC en ISO omdat daar geen koppeling met een organisatie gemaakt kan worden. De n staat voor het aantal geïdentificeerde unieke organisaties in de categorie.
 
-Verreweg de grootste groep deelnames wordt **gevormd door Nederlandse vestigingen van buitenlandse organisaties**. Hierbij moet in veel gevallen een kanttekening worden geplaatst: de Nederlandse belanghebbenden zijn geïdentificeerd op basis van naam, met als referentiemateriaal de lijst van NEN-leden en andere indicatoren dat zij mogelijk Nederlands zijn. In enkele gevallen bleek het goed mogelijk om Nederlandse vertegenwoordiging aan te wijzen, omdat de organisaties ook als zodanig geregistreerd zijn bij de SDO, zoals bij ETSI. In andere gevallen werkt herleiding op naam, waar bijvoorbeeld een vertegenwoordiger van een groot Amerikaans softwarebedrijf met vestigingen in Nederland wordt aangemerkt als Nederlandse belanghebbende. Het gevolg hiervan is dat de multinational, wanneer distinctie tussen de Nederlandse tak en andere takken niet te maken is, telt als Nederlandse belanghebbende. Dit geldt andersom ook voor Nederlandse organisaties met buitenlandse vestigingen.
+Verreweg de grootste groep deelnames wordt gevormd door **Nederlandse vestigingen van buitenlandse organisaties**. Hierbij moet in veel gevallen een kanttekening worden geplaatst: de Nederlandse belanghebbenden zijn geïdentificeerd op basis van naam, met als referentiemateriaal de lijst van NEN-leden en andere indicatoren dat zij mogelijk Nederlands zijn. In enkele gevallen bleek het goed mogelijk om Nederlandse vertegenwoordiging aan te wijzen, omdat de organisaties ook als zodanig geregistreerd zijn bij de SDO, zoals bij ETSI. In andere gevallen werkt herleiding op naam, waar bijvoorbeeld een vertegenwoordiger van een groot Amerikaans softwarebedrijf met vestigingen in Nederland wordt aangemerkt als Nederlandse belanghebbende. Het gevolg hiervan is dat de multinational, wanneer distinctie tussen de Nederlandse tak en andere takken niet te maken is, telt als Nederlandse belanghebbende. Dit geldt andersom ook voor Nederlandse organisaties met buitenlandse vestigingen.
 
 Binnen de afbakening van dit onderzoek wordt de formele vertegenwoordiging van de Nederlandse overheid waargenomen door het ministerie van Economische Zaken, in de rol van verantwoordelijke voor Nederlandse participaties. Het komt voor dat specifieke Nederlandse overheidsorganisaties participeren in het opstellen van standaarden op onderwerpen, zoals bijvoorbeeld Rijkswaterstaat op asset management.
 
@@ -335,5 +335,5 @@ Op basis van de analyses van gegevens over deelname aan standaardisatietrajecten
 
 <!-- -->
 
-- **De invloed van de Nederlandse organisaties op standaardisatie is niet vast te stellen op basis van enkel het aantal participaties**. Omdat invloed niet gaat over aantal, maar over wijze van deelname (het daadwerkelijk meeschrijven aan een norm en aanwezigheid, met name op belangrijke momenten). De kwalitatieve analyse in hoofdstuk 6 gaat verder in op de duiding en interpretatie van de Nederlandse invloed.
+- De **invloed** van de Nederlandse organisaties op standaardisatie is **niet** vast te stellen op basis van enkel het **aantal participaties**. Omdat invloed niet gaat over aantal, maar over wijze van deelname (het daadwerkelijk meeschrijven aan een norm en aanwezigheid, met name op belangrijke momenten). De kwalitatieve analyse in hoofdstuk 6 gaat verder in op de duiding en interpretatie van de Nederlandse invloed.
 

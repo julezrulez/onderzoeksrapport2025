@@ -243,9 +243,9 @@ CENELEC</td>
 
 Legenda: OW = openbare website, LP = ledenportaal, API = application programmable interface LM V = Lidmaatschap vereist.
 
-## B. Verantwoording interviews 
+## B. Verantwoording interviews
 
-Overzicht geïnterviewden
+### Overzicht geïnterviewden
 
 **Tabel 14** geeft een overzicht van alle geïnterviewden die hebben deelgenomen aan het kwalitatieve deel van het onderzoek. Bij de keuze van geïnterviewden is rekeningen gehouden met:
 
@@ -487,11 +487,11 @@ Tabel 15 Toont het aantal geïnterviewden, waar de geïnterviewde werkzaam is en
 
 \*Overig: stichting, coöperatie met publieke taken, brancheorganisatie
 
-Vragenlijst
+### Vragenlijst
 
 Voor dit onderzoek is gebruik gemaakt van ‘semi-structured interviews’ waarbij onderstaande vragen de leidraad vormden voor het gesprek.
 
-**Kennismaken**
+### Kennismaken
 
 - Bedankt dat u wilt meewerken aan dit interview. Wij zijn benieuwd wat uw interesse is om aan ons onderzoek mee te doen. Heeft u daar een specifieke reden voor? \[Bijvoorbeeld: het is mijn intrinsieke motivatie om mijn kennis in standaarden te laten opnemen; ik ben gestuurd door mijn organisatie om niet de boot te missen\]
 
@@ -503,7 +503,7 @@ Voor dit onderzoek is gebruik gemaakt van ‘semi-structured interviews’ waarb
 
   - Verricht u die activiteiten alleen, of werkt u daarin samen met collega’s van uw organisatie?
 
-**Participatie in de ontwikkeling van standaarden**
+### Participatie in de ontwikkeling van standaarden
 
 - Wat is de positie van uw organisatie ten opzichte van andere partijen in het veld? \[Denk in termen van “wij zijn de grootste speler in dit veld; er is geen dominante partij, etc.”\].
 
@@ -552,7 +552,7 @@ We zijn ook benieuwd naar uw ervaring bij andere deelnemers.
 
     - Relatie met achterban/werkveld.
 
-**Uitkomst**
+### Uitkomst
 
 We willen nog iets meer inzoomen op het resultaat van standaardisatieprocessen.
 
@@ -560,7 +560,7 @@ We willen nog iets meer inzoomen op het resultaat van standaardisatieprocessen.
 
 - Wat is relevantie van de besproken standaard(en) voor uw organisatie, waarom is die voor u en voor uw partij van belang?
 
-**Rol overheid**
+### Rol overheid
 
 We willen nog graag uw mening horen over de rol van de Rijksoverheid in het standaardisatie-veld?
 
@@ -572,7 +572,7 @@ We willen nog graag uw mening horen over de rol van de Rijksoverheid in het stan
 
 - Wat kan de Rijksoverheid naar uw idee doen om Nederlandse vertegenwoordiging te stimuleren? Bijvoorbeeld SME’s.
 
-**Afsluiting en vervolgstappen**
+### Afsluiting en vervolgstappen
 
 Bedankt voor uw deelname.
 
@@ -582,7 +582,7 @@ Bedankt voor uw deelname.
 
 - Is er (nog) relevante informatie die u met ons kan delen m.b.t. het onderzoek? Is er een thema die niet besproken is, maar u toch wil noemen?
 
-**Evaluatie**
+### Evaluatie
 
 - Hoe heeft u het gesprek/interview ervaren?
 
@@ -590,9 +590,7 @@ Bedankt voor uw deelname.
 
 - Is er nog iets dat u wilt toevoegen?
 
-#### 
-
-Prompts
+### Prompts
 
 De 34 interviews duurden tussen de 50 en 70 minuten, werden door twee interviewers gehouden en resulteerden in transcripties met gemiddeld zo'n 9.000 woorden. Van deze transcripties is een geautomatiseerde samenvatting gegenereerd die was ingedeeld in categorieën, waarbij gebruik is gemaakt van de volgende prompts:
 
@@ -604,6 +602,6 @@ De 34 interviews duurden tussen de 50 en 70 minuten, werden door twee interviewe
 
     - Dit resulteerde in bruikbare samenvattingen. De samenvattingen zijn handmatig geanalyseerd en per onderwerp samengevoegd ter beantwoording van een onderzoeksvraag. De resultaten zijn verwerkt in hoofdstukken 4, 5 en 6.
 
-Samenvattingen interviews, per categorie
+### Samenvattingen interviews, per categorie 
 
 Op te vragen bij de onderzoekers.
