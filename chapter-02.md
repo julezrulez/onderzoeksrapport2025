@@ -1,26 +1,48 @@
 
-# Inleiding
+# Onderzoeksvragen
 
-De digitalisering van onze samenleving groeit in een steeds sneller tempo en standaardisatie speelt hierin een cruciale rol: standaarden zijn essentieel om interoperabiliteit, veiligheid en innovatie te bevorderen in een wereld waarin digitale technologieën de grenzen overstijgen. Ook dragen ze bij aan kostenreductie door efficiëntie en herbruikbaarheid te stimuleren, helpen ze organisaties te voldoen aan compliance en regelgeving, en waarborgen ze kwaliteit en betrouwbaarheid van systemen en diensten. De Europese Commissie erkent [standaardisatie als een strategisch instrument](https://digital-strategy.ec.europa.eu/nl/policies/ict-and-standardisation) om de digitale soevereiniteit van Europa te waarborgen en de Europese belangen en waarden te verdedigen. Tegen deze achtergrond heeft ICTU van Forum Standaardisatie de opdracht gekregen om te onderzoeken hoe Nederlandse publieke en private organisaties deelnemen aan Europese en mondiale standaardisatie. De opdracht heeft als doel inzicht te verschaffen in de Nederlandse vertegenwoordiging binnen standaardisatie-organisaties op het gebied van ICT, zowel op Europees als mondiaal niveau. Daarnaast wil Forum Standaardisatie begrijpen welke factoren mogelijk bijdragen aan- of belemmeren dat Nederlandse partijen actiever hun belangen vertegenwoordigen. ICTU heeft onderzoeksbureau Dialogic betrokken bij het onderzoek, primair voor het uitvoeren van kwantitatieve analyses.
+Dit onderzoek richt zich op drie hoofdvragen om een helder beeld te krijgen van de huidige situatie en de mogelijke verbeterpunten:
 
-Dit onderzoek is voor beleidsmakers van belang omdat het inzicht biedt in de mate van betrokkenheid van Nederland bij internationale standaardisatieprocessen, in de effectiviteit van deze betrokkenheid en in de mogelijke verbeteringen. Door goed te begrijpen waar en waarom Nederland wel en niet actief is, kunnen strategische beslissingen worden genomen om de positie van Nederland in internationale standaardisatie te versterken.  
-Ook kan de overheid met deze inzichten gericht actie ondernemen om de participatie te bevorderen van Nederlandse organisaties in strategisch belangrijke standaardisatietrajecten.
+1.  *Hoe zijn Nederlandse belanghebbenden ten opzichte van andere landen vertegenwoordigd in internationale standaardisatie-organisaties?*  
+    Hoe heeft zich dit over de afgelopen vijf jaar ontwikkeld? (Kwantitatief antwoord)
 
-## Aanleiding onderzoek
+2.  *Wat drijft de betrokkenheid van de verschillende Nederlandse organisaties?*  
+    Waarom hebben partijen hun betrokkenheid vermeerderd of verminderd?  
+    Wat verwachten ze in de toekomst te gaan doen? (Kwalitatief antwoord)
 
-Op Europees niveau groeit de aandacht voor de noodzaak van een standaardisatiestrategie en de governance van standaardisatie-organisaties, getuige ook het recent opgerichte High Level Forum on European Standardisation en de publicatie van ‘[An EU Strategy on Standardisation’](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13099-Standardisation-strategy_en) door de Europese Commissie in 2022.
+3.  *Wat kan de overheid doen om de Nederlandse deelname in belangrijke Europese en internationale standaardisatieprocessen te vergroten of beter af te stemmen?*  
+    (Beleidsmatig advies)
 
-Gezien het groeiende belang van standaardisatie in waardengedreven digitalisering en digitale autonomie, wil Forum Standaardisatie inzicht verkrijgen in de participatie van Nederlandse publieke- en private organisaties in Europese standaardisatie-organisaties. De achterliggende vraag is: heeft Nederland voldoende vertegenwoordiging in standaardisatie-organisaties en -activiteiten van strategisch belang? Kan de overheid hierin een stimulerende rol spelen?
+Deze vragen worden beantwoord op basis van onderzoek bij de volgende 12 organisaties (zie bijlage A voor een nadere duiding van deze organisaties):
 
-Nota bene: ‘Standaardisatie’ verwijst naar het proces van het ontwikkelen en implementeren van standaarden. Dit kan 1) een formeel ontwikkelproces zijn (zoals bij NEN en ICE), 2) een informeel ontwikkelproces zijn bij industrieconsortia (zoals bij OASIS en W3C) en 3) een intern proces zijn binnen een organisatie. In het Nederlandse taalgebied wordt vaak de term ‘normalisatie’ gebruikt in de context van formele standaarden. In dit document wordt de alomvattende term ‘standaardisatie’ gebruikt.
+- Drie internationale standaardisatie-organisaties: ITU, ISO en IEC.
 
-## Het belang van standaardisatie als een strategisch instrument
+- De drie door de EU erkende Europese standaardisatie-organisaties: CEN, CENELEC en ETSI.
 
-De strategische waarde van standaardisatie is de laatste jaren sterk toegenomen. Standaardisatie is van belang voor:
+- Zes standaardisatie-organisaties, consortia en samenwerkingsverbanden: IETF, IEEE-SA, W3C, OASIS, 3GPP en GS1.
 
-- **Waardengedreven digitalisering:** de EU streeft naar digitalisering die niet alleen economisch van belang is, maar ook ethisch en maatschappelijk verantwoord. Denk hierbij aan standaarden voor kunstmatige intelligentie die discriminatie tegengaan of richtlijnen voor cybersecurity die privacy en gegevensbescherming garanderen.
+Om deze vragen te beantwoorden is empirisch onderzoek uitgevoerd en zijn de resultaten hiervan gerelateerd aan actuele beleidsstukken, in het bijzonder: 1) Kamerstuk 36 410 XIII met betrekking tot de bevindingen uit de evaluatie van het Nederlands Normalisatie Instituut en 2) De Nationale Normalisatieagenda (versie december 2024, interdepartementaal werkdocument van het ministerie van Economische Zaken).  
+Het voornemen is om het onderzoek elke drie tot vijf jaar te herhalen.
 
-- **Digitale autonomie:** de EU wil minder afhankelijk zijn van technologieën, standaarden en de leveranciers daarvan uit landen buiten de EU, [zoals de Verenigde Staten en China](https://magazines.cybersecurityraad.nl/csrmagazine/2022/01/03.-europa-neemt-voortouw-versterking-digitale-soevereiniteit). Door zelf geharmoniseerde standaarden te ontwikkelen die zijn gekoppeld aan EU-wetgeving, worden betere mogelijkheden geboden aan de EU om een eigen koers te varen en ervoor te zorgen dat Europese bedrijven concurrerend blijven. Daarnaast [promoot](https://single-market-economy.ec.europa.eu/single-market/european-standards/standardisation-policy/international-activities_en) de Europese Commissie EC-standaarden bij de drie internationale standaardisatie-organisaties ISO, IEC en ITU (bron: geïnterviewde EC-deelnemer). 
+## Scope en overwegingen
 
-- **Complexiteit en concurrentie:** op internationaal vlak groeit naast het aantal en de typen organisaties dat zich met standaardisatie bezighoudt, ook de complexiteit van de onderwerpen waarvoor standaarden worden ontwikkeld. Voor zowel de Nederlandse overheid als voor het Nederlandse bedrijfsleven is het daarom belangrijk om gericht te investeren in deelname aan díe standaardisatie-organisaties waar strategische belangen op het spel staan, zoals de handelspositie, het concurrentievermogen en de digitale strategische autonomie. Deze belangen zijn eveneens relevant voor het mkb, dat meer moeite zal hebben dan grote bedrijven om te investeren in deelname aan standaardisatieprocessen.
+Het onderzoek betreft zowel een kwalitatief als een kwantitatief deel. Voor het kwalitatieve deel zijn in totaal 34 organisaties geïnterviewd. De keuze voor deze organisaties is primair gebaseerd op het belang voor Nederland (voor zowel de overheid en het bedrijfsleven) van de desbetreffende ICT-standaard die wordt ontwikkeld. Verder is er gezocht naar een goede balans tussen 1) de verschillende Standards Development Organisations (SDO’s), 2) de grootte en het type van de organisatie en 3) het bedrijfsleven versus (semi-)overheid. Op verzoek van Bureau Forum Standaardisatie zijn gedurende dit onderzoek ook vier organisaties gelieerd aan de Europese Commissie (EC) in de scope van het onderzoek opgenomen (ENISA, 2x DG Connect, DG Just) en Global Standards One (GS1) als een van de SDO’s.  
+GS1 is niet meegenomen in de kwantitatieve analyse.
+
+Het aantal geïnterviewden per sector in de scope van het kwalitatieve onderzoek is als volgt:
+
+| Sector                            | Aantal geïnterviewden |
+|-----------------------------------|-----------------------|
+| Distributie en Logistiek          | 1                     |
+| Energie en petrochemie            | 2                     |
+| Financiële dienstverlening        | 4                     |
+| Ingenieursdiensten en Consultancy | 3                     |
+| Overheid (EU)                     | 4                     |
+| Overheid en Publieke Sector (NL)  | 9                     |
+| Retail                            | 1                     |
+| Technologie en IT-dienstverlening | 10                    |
+
+Het onderzoek beperkt zich tot het bepalen van waar en hoe Nederland is vertegenwoordigd in Europese en internationale standaardisatie-organisaties en activiteiten. Het onderzoek is niet gericht op individuele ICT-standaarden of technologieën, maar op het niveau van organisaties, commissies of werkgroepen.
+
+In dit rapport is een advies opgenomen over wat de overheid kan doen om Nederlandse participatie in strategische Europese en internationale standaardisatieonderwerpen te stimuleren. Er wordt geen oordeel gegeven over de vraag of Nederland ‘voldoende’ vertegenwoordigd is.
 

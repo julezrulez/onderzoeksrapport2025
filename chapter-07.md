@@ -1,168 +1,125 @@
 
-# Onderzoeksvraag 3: Indien gewenst, wat kan de overheid doen om de Nederlandse deelname in belangrijke Europese en internationale standaardisatieprocessen te vergroten of beter af te stemmen? 
+# Eindconclusies en aanbevelingen
 
-De huidige activiteiten vanuit het ministerie van Economische Zaken (EZ) en vanuit NEN zijn vergeleken met de ideeën en wensen die tijdens de interviews zijn opgehaald. Veel zaken blijken al te worden opgepakt in recente beleidsstukken. Voor de aspecten die nog niet zijn opgepakt, zijn aanbevelingen geformuleerd.
+De primaire onderzoeksvragen richten zich op hoe Nederlandse belanghebbenden zijn vertegenwoordigd in mondiale standaardisatie-organisaties, op de drijfveren voor betrokkenheid en op wat de overheid kan doen om deelname te vergroten. In dit hoofdstuk worden de eindconclusies en aanbevelingen beschreven.
 
-## Huidige activiteiten
+## Eindconclusies bij dit onderzoek
 
-Vanuit de [EU-Verordening 1025/2012](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32012R1025) moet iedere EU lidstaat een normalisatie-instituut aanwijzen. Het Nederlands Normalisatie Instituut (NEN) is door de Nederlandse Staat aangewezen als partij die naast het ontwikkelen van nationale normen, ook het faciliteren van de Nederlandse inbreng in Europees (CEN en CENELEC) en internationaal verband (ISO en IEC) als taak heeft. Het ministerie van EZ is systeemverantwoordelijk voor het nationale beleid rondom normalisatie. Wettelijke taken uit EU-verordening 1025/2012 zijn beperkt tot het stelsel van Europese Normalisatie. Het ministerie geeft opvolging aan de Europese normalisatiestrategie om normen in te zetten voor economische groei, innovatie en duurzaamheid.
+1.  De Nederlandse overheid heeft al aanzienlijke stappen gezet in het bevorderen van standaardisatie en samenwerking tussen publieke en private sectoren. Denk aan identities, dataspaces, asset management, cybersecurity en AI. Het voortzetten en verder versterken van deze inspanningen zal Nederland profijt opleveren. Door als **overheid en bedrijfsleven de krachten te bundelen**, ontstaat optimale en efficiënt ingezette participatie aan standaardisatie. De standaarden vormen zo enerzijds de basis van innovatie en duurzaamheid en anderzijds bieden ze effectief bescherming van de Nederlandse waarden en de concurrentiepositie in het internationale speelveld. 
 
-Door de aanwijzing vanuit EZ van NEN als het nationale normalisatie-instituut betekent dat Nederlandse belanghebbende partijen met NEN de toegang tot Europese en mondiale normalisatie hebben. NEN is een private, onafhankelijke stichting zonder winstoogmerk en faciliteert het normalisatieproces waarin belanghebbenden zoals bedrijven, overheden en kennisinstellingen bijdragen aan nationale, Europese en mondiale normen. Als lid van CEN, CENELEC, ETSI, ISO, en IEC zorgt NEN voor de vertegenwoordiging van het Nederlands belang. De rol van NEN als nationale normalisatieorganisatie ten aanzien ETSI is [beperkt](https://www.nen.nl/samenwerkingsplatform-etsi-nen) tot het uitvoeren van de publieke consultatie van door ETSI ontwikkelde Europese normen (EN) in Nederland en het inbrengen van het nationale standpunt in het ETSI normalisatieproces.
+2.  Het is belangrijk voor Nederland als geheel om **gericht te investeren** in deelname aan díe standaardisatie-organisaties waar strategische belangen op het spel staan, zoals de handelspositie, het concurrentievermogen en de digitale soevereiniteit. 
 
-Andere SDO’s, zoals IETF en W3C, hebben geen formele rol in het licht van de Europese Verordening 1025 en zijn daarmee geen aangewezen Europese Normalisatie instellingen. Daarmee heeft NEN geen rol in het proces van deze organisaties. Nederlandse belanghebbenden nemen rechtstreeks deel aan de standaardisatieprocessen en werkgroepen van deze SDO’s.
+3.  Vanwege mededingingsregels kan samenwerking in een sector beperkt zijn, maar **standaardisatie biedt een neutraal en transparant mechanisme** om die wel mogelijk te maken. Het helpt zowel het mkb als grote organisaties gezamenlijke vooruitgang te boeken in interoperabiliteit, efficiëntie en innovatie, zonder concurrentie te schaden of regels te overtreden.
 
-### De Nationale Normalisatieagenda
+## Conclusies in meer detail 
 
-De Nationale Normalisatieagenda (versie december 2024), is een vertaalslag van de Europese normalisatiestrategie naar acties op nationaal niveau. De agenda heeft als doel om de afstemming tussen Europese beleidsprioriteiten en standaardisatie in Nederland te verbeteren met behulp van een in 2024 opgericht Rijksbreed normalisatienetwerk. Dit netwerk richt zich op kennisdeling op het gebied van standaardisatie, met nadruk op de groene- en digitale transitie en op het signaleren van internationale beïnvloeding die niet strookt met EU-belangen. Een geïnterviewde vertelt hierover: *“… we hebben een netwerk van een man of honderd binnen de Rijksoverheid in kaart gebracht. Je merkt dat kennis heel erg verdeeld is \[en hetzelfde geldt voor\] het niveau van de kennis. Bovendien kennen de mensen elkaar lang niet altijd. Als er dan één iemand vertrekt dan is dat vaak meteen een aderlating.”*
+Hieronder volgen de conclusies op basis van de interviews en de verzamelde data in meer detail.
 
-Nederland geeft invulling aan de Europese normalisatiestrategie door middel van drie speerpunten: prioriteren, verbinden en opleiden.  
-‘Prioriteren’ richt zich op: het aanwijzen van specifieke standaardisatieactiviteiten ter ondersteuning van beleidsprioriteiten en proactieve sturing op het gebied van standaardisatie, in overleg met stakeholders in zowel het private- als het publieke domein.  
-‘Verbinden’ richt zich op: de verdere uitbouw van een Rijks normalisatienetwerk om kennis te delen, kansen te benutten en beproefde werkwijzen (best-practices) uit te wisselen op het gebied van standaardisatie.  
-‘Opleiden’ is gericht op het vergroten van het aantal Nederlandse experts met kennis van standaardisatieprocessen en standaardisatieen door middel van opleidingen en certificaten.
+1.  Vertegenwoordiging en betrokkenheid
 
-Deze normalisatieagenda sluit aan op de standaardisatiestrategie van de EC en het High-Level Forum on European Standardisation. Dit is door de EC opgezet om belanghebbenden uit verschillende sectoren samen te brengen en om strategisch advies te kunnen geven over standaardisatiebeleid binnen de EU. Het High-Level Forum speelt een belangrijke rol bij het ondersteunen van de doelstellingen van de EU op het gebied van technologische autonomie, digitale transformatie, groene transitie en wereldwijde concurrentiepositie.
+    1.  **Een groeiende deelname** aan SDO’s in absolute zin.  
+        Uit de verzamelde gegevens over de periode 2019 -2024 lijkt sprake te zijn van een groeiende deelname, gelet op zowel het aantal individuele deelnames als het aantal Nederlandse organisaties dat deelneemt.
 
-## Informatie opgehaald uit de interviews
+    2.  **Echter, het aandeel** van de participatie van Nederlandse belanghebbenden ten opzichte van het **mondiale totaal, neemt iets af**.  
+        De trend is dat de mondiale participatie toeneemt, de participatie van Nederlandse belanghebbenden blijft in verhouding achter.
 
-In de interviews is gevraagd naar de ervaringen en beelden van de geïnterviewden over de wenselijke strategische aanpak van de Rijksoverheid en wat ervoor nodig is om de doelen op een effectieve en efficiënte manier te behalen.
+    3.  **Een sterke Nederlandse vertegenwoordiging** op gebieden waar Nederland een **groot (economisch) belang** heeft**.**  
+        Omdat Nederland zich meer dan andere landen richt op thema’s waar zij een groot economisch belang heeft- zoals AI, Telecom en betaaldiensten, assetmanagement en digitale beveiliging is de participatie aan de betreffende standaardisatieplatformen sterk vertegenwoordigd. Op andere onderwerpen (zoals energietechniek en quantumtechnologie) lijkt participatie minder te zijn dan die van andere landen. Als mogelijke oorzaak wordt genoemd het ontbreken van kennis (binnen de overheid) over deze onderwerpen.  
+        De Nederlandse invloed van organisaties op standaardisatie is niet vast te stellen op basis van enkel het aantal participaties. Dit, omdat invloed niet gaat over aantal, maar over de wijze van deelname (bijvoorbeeld, meeschrijven aan een norm en aanwezigheid op belangrijke momenten).
 
-### Wenselijke strategische aanpak van de Rijksoverheid
+    4.  **Strategische voordelen** en vroegtijdige inzichten zijn **drijfveren** voor **betrokkenheid**.  
+        Actieve deelname levert organisaties strategische voordelen op zoals het beïnvloeden van standaarden, het vergroten van het marktaandeel, het verbeteren van internationale standaarden en interoperabiliteit en het waarborgen van (product)veiligheid. Bij passieve deelname krijgen organisaties vroegtijdig inzicht in nieuwe ontwikkelingen, waardoor zij snel kunnen anticiperen.  Tenslotte draagt deelname vaak bij aan een collectief of sectoraal belang.
 
-De geïnterviewden vanuit zowel het mkb als vanuit grote bedrijven stellen dat de effectiviteit van het Nederlandse overheidsbeleid zal verbeteren door een **duidelijke koers** en **structurele vertegenwoordiging** vanuit zowel de **overheid als het bedrijfsleven** in de diverse Europese (CEN, CENELEC, ETSI) en internationale SDO’s (ISO, IEC, ITU). Zo dient de overheid ervoor te zorgen dat Europese en internationale standaarden aansluiten bij nationale belangen en behoeften. Het is belangrijk dat Nederlandse standaarden (zoals Common Ground, StUF) in lijn zijn met Europese en internationale standaarden om samenwerking en concurrentievermogen te bevorderen. Alleen wanneer er specifieke nationale behoeften of voordelen zijn, is het ontwikkelen van Nederlandse standaarden nog te rechtvaardigen, conform [EU-verordening 1025/2012](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32012R1025).  
-Beleid over standaardisatie vereist een balans tussen innovatie en standaardisatie, en samenwerking met belanghebbenden. Het vergt een flexibele benadering om technologische vooruitgang te ondersteunen, waarbij standaardisatie de innovatie ondersteunt (in plaats van belemmert). Daarbij zijn duidelijke kaders en voorspelbaarheid nodig om scope en focus te bieden. Denk hierbij aan bijvoorbeeld AI-standaarden zoals ISO/IEC 42001, die transparantie, eerlijke besluitvorming en uitlegbaarheid bevorderen, waarbij bedrijven binnen dergelijke kaders kunnen innoveren. Overigens is de Nederlandse overheid nauw betrokken bij de ontwikkeling van AI-standaarden die gerelateerd zijn aan de AI-act.
+    5.  **Betrokkenheid** lijdt onder **gebrek aan kennis, tijd, middelen en capaciteit,** waardoor de prioritering van standaardisatie onvoldoende aandacht krijgt. Voordelen van standaardisatie zijn vaak pas op langere termijn zichtbaar.  
+        Veel organisaties hebben niet de kennis, tijd, middelen en capaciteit om actief deel te nemen. Bij het management en de bestuurders lijkt onvoldoende bekendheid met het onderwerp te leiden tot een gebrek aan betrokkenheid. Daarnaast zijn standaardisatieprocessen van lange duur en complex, wat deelname verder bemoeilijkt. Daardoor worden de opbrengsten en voordelen pas op lange termijn zichtbaar. Dit alles leidt ertoe dat standaardisatie onvoldoende prioriteit krijgt.
 
-Op strategisch niveau geeft het bedrijfsleven aan vooral baat te hebben bij een duidelijke visie vanuit de overheid voor de betrokken partijen bij hun standaardisatie-activiteiten. Er is behoefte aan een heldere koers voor standaardisatieonderwerpen in sectoren en technologieën aan de hand waarvan organisaties kunnen acteren, en waarmee innovatie en economische groei gestimuleerd kan worden.
+    6.  **In de toekomst** verwachten Nederlandse organisaties **geen uitbreiding** van hun activiteiten.  
+        Wanneer er toch wordt gedacht aan specifieke activiteiten, dan zal men zich richten op strategische onderwerpen zoals AI, digital wallets, cyber, data interoperabiliteit en op operationele onderwerpen zoals procurement en invoicing.
 
-### Wenselijke coördinatie en ondersteuning van de Rijksoverheid
+<!-- -->
 
-Strategisch advies, transparantie, toegankelijkheid en communicatie vormen de essentie om standaarden effectief te implementeren en de Nederlandse belangen te waarborgen, volgens de geïnterviewden. Zij geven aan dat Nederlandse standaardisatie-initiatieven steeds beter kunnen worden door feedback van diverse belanghebbenden en best practices over de standaardisatie-activiteiten te integreren in het beleid, zodat de nationale belangen optimaal kunnen worden vertegenwoordigd. Een van de geïnterviewden vertelt: “*Duitsland heeft bijvoorbeeld een soort van schaduwgroep op nationaal niveau van het High-Level Forum. En zij schaduwen dat op nationaal vlak om te kijken wat zijn de belangen als overheid aan de ene kant en als bedrijfsleven en hoe gaan we dan onze inzet die kant op organiseren?*”  
-Coördinatie van standaardisatie door de overheid omvat een interdisciplinaire, gestructureerde aanpak van standaardisatietrajecten in samenwerking tussen de overheid, de private sector en de wetenschap. Samenwerking tussen ministeries en internationale partners, duidelijke communicatie over nieuwe wetgeving met bijbehorende geharmoniseerde standaarden en stimulering van deelname aan commissies zien de geïnterviewden als belangrijke taken van de overheid. De overheid kan hiermee niet alleen standaarden helpen verbeteren, maar ook de adoptie ervan versnellen en innovatie stimuleren.
+1.  De rol voor de overheid
 
-De meeste geïnterviewden benadrukken dat financiële ondersteuning met subsidies, belastingvoordelen en kosten-differentiatie de deelname van mkb kan stimuleren. Logistieke ondersteuning en netwerkmogelijkheden helpen barrières te overwinnen. De problematiek werd helder verwoord door deze geïnterviewde: “*Start-ups zien het belang van standaardisatie, alleen die zeggen: wij hebben 30% eigenbelang en 70% algemeen belang. Die 30% die financieren we graag zelf. Die 70% kunnen we ons niet veroorloven*.”
+    7.  **Standaardisatie** is een **belangrijk instrument** voor de **overheid.**  
+        Het kan ingezet worden om concrete invulling te geven aan beleid om de maatschappelijke waarden en belangen van Nederland beter te kunnen waarborgen. Ook kan het instrumenteel ingezet worden om beleid en uitvoering te verbinden.
 
-### Wenselijke kennis, samenwerking en educatie
+    <!-- -->
 
-Meerdere geïnterviewden, zowel vanuit het bedrijfsleven als vanuit de overheid zelf, stellen dat wanneer het **kennisniveau** over standaardisatie binnen de overheid wordt verhoogd, dit de overheid in staat stelt effectiever bij te dragen aan de ontwikkeling, implementatie en handhaving van standaarden. Een geïnterviewde beleidsmedewerker vertelt*: “Er is weinig bekendheid met het onderwerp \[standaardisatie\] en ik heb inmiddels de afgelopen twee jaar vaak uitleg gegeven, dus daar ben ik bedreven in geworden en dan snappen mensen het belang en willen ze vervolgens wat tijd vrijmaken*.”  
-Vanuit het bedrijfsleven wordt aangegeven dat het belangrijk is dat de overheid meer experts in de eigen organisatie aanwijst voor deelname aan commissies en werkgroepen. EZ en andere departementen (o.a. I&W, VRO, VWS) hebben deze rol inmiddels opgepakt. Zo nemen EZ, JenV, BZK, RWS, VWS en het Rijks ICT Gilde deel aan de normcommissie AI & Big Data.
+    1.  **De overheid** is de **spil** in de **bescherming** van **Nederlandse maatschappelijke waarden** via standaardisatie (zoals ethische principes, maatschappelijke normen en publieke belangen).  
+        Als de overheid zich hierin niet actief mengt, zullen commerciële of internationale partijen dit proces domineren, mogelijk zonder voldoende aandacht voor publieke belangen zoals privacy, veiligheid, toegankelijkheid en digitale soevereiniteit.
 
-De diversiteit aan belangen en achtergronden van betrokken partijen creëert uitdagingen bij het bereiken van consensus in standaardisatie-activiteiten.  
-**(Publiek-private) samenwerking** tussen overheden, industrie en academische instellingen is nodig om veilige, betrouwbare en gebruikersgeoriënteerde standaarden te kunnen specificeren. Geïnterviewden pleiten voor een interdisciplinaire benadering, waarbij naast technisch inhoudelijke ook andere domeinen zoals ethiek, recht en psychologie betrokken zijn. Nauwere samenwerking tussen overheid en bedrijfsleven is nodig om haalbare en effectieve standaarden te waarborgen. Dit geldt in het bijzonder voor de niet-formele SDO’s waarbij veel geïnterviewden hebben aangegeven dat ze weinig tot geen overheidsinbreng zien in bv W3C, OASIS en IEEE.
+    2.  **Efficiënte en effectieve implementatie** van nieuwe regels en **standaarden** is mogelijk, op basis van **geharmoniseerde standaarden**.  
+        Hiervoor moet de overheid kritisch blijven kijken naar de toegevoegde waarde van specifieke standaarden in de EU-regelgeving.
 
-Intensiever overleg met de markt over strategisch belangrijke standaardisatieonderwerpen, biedt de mogelijkheid om samen praktische problemen en oplossingen te bespreken. Een geïnterviewde zegt hierover: “*Bepaalde generieke SDO’s zijn leading op specifieke onderwerpen, dus we moeten samen afwegen bij welke SDO je voor een \[te ontwikkelen\] standaard moet aanhaken. \[….\] Welke specifieke standaarden willen we eerst, welke kunnen ook wel iets langer wachten? Er is gewoon weinig capaciteit, dus we moeten samen gaan kiezen wat we wel en wat we niet willen doen.”*
+    3.  Het **stimuleren** en **faciliteren** **van deelname** aan- en kennis over standaardisatie-activiteiten zijn **rollen die van de overheid** **verwacht** worden en die meerwaarde opleveren.  
+        De overheid kan participatie stimuleren door middelen beschikbaar te stellen aan organisaties (logistieke ondersteuning, subsidies, financiering en opleidingen). De overheid heeft de positie om samenwerking te stimuleren, bewustwording te creëren, informatie helder en tijdig te verstrekken en om bestuurlijke urgentie te creëren rondom standaardisatie.
 
-Uit de interviews blijkt verder het belang van publiek-private samenwerking om de **internationale positie van Nederland te versterken** en een effectieve representatie bij relevante SDO’s en standaardisatie-activiteiten te waarborgen. Het is belangrijk om in een dergelijke samenstelling actuele ontwikkelingen te monitoren en aankomende ontwikkelingen te signaleren. Bovendien kan de overheid inzetten op het tijdig uitvoeren van impactanalyses (technisch, juridisch, samenleving), kosten-batenanalyses (effectiviteit en implementatiekosten) en uitvoerbaarheidstoetsen (tijdslijn en haalbaarheid) wat betreft de invoering van nieuwe standaarden. Of zoals een geïnterviewde benoemt: “*Ik denk dat de Nederlandse overheid heel kritisch moeten kijken naar de dingen die uit de EU komen en de vraag moet stellen: Is dit nou echt iets wat waarde toevoegt?”*
+    4.  **Prioritering** van onderwerpen **zal verbeteren** wanneer de **overheid** een **coördinerende rol** op zich inneemt.  
+        Een multidisciplinaire aanpak vanuit de private- en de publieke sector en hoger onderwijsinstellingen biedt kansen. Er zijn op internationaal vlak buitengewoon veel standaardisatie-activiteiten en trajecten die elkaar ook nog deels overlappen. Om prioritering mogelijk te maken (op onderwerp / te ontwikkelen standaard / opportuun moment) zijn overzicht, inzicht en gedegen afwegingskaders nodig. Ook hierin zou de overheid het voortouw kunnen nemen. 
 
-Het vinden van mensen met de juiste vaardigheden (capaciteitsopbouw) vormt een uitdaging om tot een succesvol standaardisatietraject te komen. Er is sterke behoefte aan nieuwe instroom in het vakgebied. **Educatie** kan hierbij helpen.  
-Bewustwording en educatie over het belang van standaardisatie zijn essentieel om de concurrentiepositie en innoverende kracht van de Nederlandse industrie te bevorderen. De overheid kan actiever worden in het bevorderen van kennisbewustzijn, het mobiliseren van experts en het faciliteren van interdisciplinaire samenwerking over alle aspecten van standaardisatie, zowel binnen als buiten de overheid. Men benadrukt het belang van een centraal aanspreekpunt voor interdisciplinaire samenwerking, een bestaand kennisinstituut. Wetenschappers en experts uit verschillende disciplines kunnen hier samenkomen om hun kennis en inzichten te delen alvorens men tot standaardisatie-initiatieven over gaat. Door laagdrempelige toegang tot kennis over standaardisatie te bieden zou specifiek het mkb gestimuleerd kunnen worden om meer te participeren.
+2.  Voordelen en drempels
 
-## Beeld dat naar voren is gekomen uit de interviews om deelname aan belangrijke Europese en internationale standaardisatieprocessen te vergroten. 
+    12. **Standaardisatie** biedt het **bedrijfsleven (bedrijfs)economische voordelen**.  
+        Voordelen zijn: het realiseren van schaalvoordelen, het vergemakkelijken van de toegang tot internationale markten, het bevorderen van interoperabiliteit tussen systemen en het bijdragen aan efficiëntere implementatie van nieuwe technologieën.
 
-**Om de Nederlandse deelname aan belangrijke Europese en internationale standaardisatieprocessen te vergroten of beter af te stemmen, kan de overheid in de volgende behoeften voorzien:**
+    <!-- -->
 
-1)  **Een duidelijke standaardisatie strategie uitdragen,** die koers en kaders biedt. Het overheidsbeleid over standaardisatie communiceren naar relevante organisaties en aan de Europese Commissie. Proactieve deelname van Nederland aan standaardisatie is noodzakelijk om kansen van nieuwe technologieën te benutten en te kunnen anticiperen op de bijbehorende risico's.
+    1.  **Deelname** aan standaardisatie biedt het **bedrijfsleven strategische voordelen**.  
+        Lange termijn voordelen zijn: de resulterende standaarden passen beter in de producten- en dienstenstrategie en/of bij de bedrijfsvoering. Andere voordelen zijn consumentenbescherming, duurzaamheid en het verlagen van handelsbarrières. Voor het senior management zijn korte termijn voordelen (financieel) aantrekkelijker. Deelname aan standaardisatie wordt daarom veelal beschouwd als kostenpost in plaats van als investering. 
 
-2)  **Structurele vertegenwoordiging handhaven** en **zelfs intensiveren** in de diverse Europese en internationale SDO’s.
+    2.  **Deelname** aan standaardisatie-activiteiten op **persoonlijke basis** levert **persoonlijke voordelen**.  
+        Voordelen omvatten de intrinsieke motivatie voor het werk, de wens om een maatschappelijke bijdrage te leveren, het ervaren van voldoening en professionele voordelen zoals netwerkmogelijkheden en kennisvergroting.
 
-3)  **Financiële ondersteuning** met subsidies, belastingvoordelen en kosten-differentiatie voor participatie door het bedrijfsleven. Het verlagen van de drempel voor deelname, het verhogen van de toegankelijkheid van standaardisatie-activiteiten en het creëren van de juiste condities voor deelname heeft tal van voordelen. Zo kunnen bijvoorbeeld niet aangehaakte inhoudelijke experts en bedrijven betrokken worden.
+    3.  **De toegankelijkheid** van standaardisatie-activiteiten verdient bijzondere **aandacht.** Activiteiten worden beter toegankelijk met behulp van onder andere financiële en logistieke ondersteuning en door het bieden van educatie. Dit geldt voor zowel de overheid als het bedrijfsleven. Deelname vraagt doorgaans om veel en specifieke expertise. Het vinden van mensen met de juiste vaardigheden vormt een uitdaging. De overheid zou het vakgebied kunnen stimuleren en zo een nieuwe instroom kunnen bevorderen.
 
-4)  **Logistieke ondersteuning en netwerkmogelijkheden** bieden aan het bedrijfsleven, in het bijzonder het mkb**.**
+    4.  Organisaties ervaren **drempels** voor **deelname** aan **Europese en internationale standaardisatie-activiteiten**.   
+        De aanzienlijke tijd die bedrijven moeten investeren in het actief deelnemen aan de ontwikkeling van standaarden is kostbaar en vormen een bezwaar (voor met name het mkb). Ook de deelnamekosten die sommige SDO’s in rekening brengen spelen een rol. Veel organisaties hebben beperkt capaciteit beschikbaar voor deelname aan standaardisatie-activiteiten. Tenslotte worden standaardisatie-activiteiten doorgaans als complex en traag ervaren.
 
-5)  **De aanpak** van standaardisatie-inspanningen **structureren en coördineren, binnen een publiek-private samenwerking**, zoals Duitsland dat doet.  
-    Dit zal bijdragen aan het versterken van de internationale positie en zorgen voor een effectieve representatie bij relevante SDO’s en standaardisatie-activiteiten. Coördineer de monitoring en signalering van (aankomende) ontwikkelingen; formuleer een duidelijke agenda, met gefundeerde keuzes voor inhoudelijke aandachtsgebieden; zet centraal in op impactanalyses, kosten- batenanalyses en uitvoerbaarheidstoetsen van de invoering van nieuwe standaarden.
+    5.  Organisaties gaan op **verschillende manieren** met standaardisatie om.   
+        Sommige organisaties hebben een gespecialiseerde afdeling voor standaardisatie. Andere organisaties hebben medewerkers die standaardisatie als integraal onderdeel van hun werk uitvoeren en deels ook naast hun werk doen.
 
-6)  **Het tijdig uitvoeren van uitvoerbaarheidstoetsen** van nieuwe standaarden wat betreft technische en juridische impact, effectiviteit en implementatiekosten om Nederlandse organisaties te laten voldoen aan de complexe eisen van de EC, zonder dat het bedrijfsleven hiervoor onevenredige kosten moet maken.
+## Aanbevelingen voor de Nederlandse overheid
 
-7)  **Kritisch kijken naar de toegevoegde waarde van specifieke standaarden** in EU-regelgeving en zorgen dat effectieve implementatie van nieuwe regels en standaarden mogelijk is (op basis van geharmoniseerde standaarden).
+1.  Beleidskoers en visie  
+    Versterking van Nederlandse belangen in ICT-standaardisatie vereist het door de overheid ontwikkelen van een duidelijke beleidskoers en visie op standaardisatie die uitgedragen kan worden naar organisaties en de Europese Commissie (EC). Dit betekent:
 
-8)  Zich blijven **richten op strategische onderwerpen** waarop standaardisatie een grote **economische en maatschappelijke impact** heeft, om zo de invloed van Nederland te vergroten. Want deelname aan internationale standaardisatieprocessen blijft naar verhouding achter bij grotere landen zoals Duitsland. Nederland beschikt immers over veel expertise en motivatie in normcommissies op gebieden als digitale beveiliging, digitale infrastructuur en identificatie, facturering, telecommunicatie, procurement en financiële transactiegegevens.
+    - **Duidelijk beeld hebben** van Nederlandse prioriteiten en positie van de Nederlandse overheid ten opzichte van deelname aan standaardisatie activiteiten.
 
-9)  **Inzetten op educatie over standaardisatie.** Dit zorgt ervoor dat de overheid zelf effectiever kan handelen op gebied van ontwikkeling, implementatie en handhaving van standaarden. Het helpt het bedrijfsleven en het mkb in het bijzonder bij het verbeteren van de concurrentiepositie en de innoverende kracht. En tenslotte komt educatie de nieuwe instroom in het vakgebied ten goede.
+    - **Gedegen afwegingskaders opstellen** met criteria voor inzet op standaardisatieactiviteiten die transparantie, eerlijke besluitvorming en uitlegbaarheid bevorderen, terwijl bedrijven binnen dergelijke kaders kunnen innoveren (zoals het geval is bij AI-standaarden).
 
-10) Het opzetten van een mechanisme buiten de ESO-structuur.
+    - **Keuzes maken** over inhoudelijke onderwerpen waarop inzet op standaarden nodig is.
 
-> Om Nederlandse belangen te behartigen waar deelname veel meer direct en op eigen titel, (en dus niet vanuit NEN wordt ondersteund) kan een mechanisme worden opgezet. Denk aan lidmaatschapsopties, een nationaal coördinatiemechanisme / platform voor samenwerking en opzet van duidelijke communicatie over niet-formele SDO’s.
+    - **Kritisch kijken naar de toegevoegde waarde** van voorgestelde geharmoniseerde standaarden in EU-regelgeving en het Nederlandse bedrijfsleven informeren **of ondersteunen** bij de implementatie (bijvoorbeeld door publiek-private dialogen te voeren). Dit stelt organisaties in staat proactief in te spelen op marktveranderingen en de technologie, wat hun positie op de lange termijn versterkt.
 
-### Een schematische vergelijking van de Nationale Normalisatieagenda met de opgehaalde wensen is weergegeven in Tabel 11.
+2.  **Voortouw nemen bij het coördineren en prioriteren van standaardisatie-activiteiten en stimuleren van samenwerking**  
+    Aanbevolen wordt dat de overheid een meer actieve coördinerende rol oppakt in activiteiten om bewustwording van urgentie en meerwaarde van standaardisatie te vergroten. Daaronder vallen:
 
-Tabel 11 Op de volgende pagina: Overzicht van wat er op het gebied van standaardisatie in Nederland is ingeregeld, waaraan momenteel invulling wordt gegeven en wat nog extra aandacht behoeft (afkomstig uit de Nationale Normalisatieagenda).
+    - **Proactief signaleren** op inzet van relevante standaardisatie-activiteiten.
 
-<table>
-<colgroup>
-<col style="width: 15%" />
-<col style="width: 17%" />
-<col style="width: 33%" />
-<col style="width: 34%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Onderwerp</th>
-<th>Is invulling aan gegeven (door o.a. NEN en EZ)</th>
-<th><p>Wordt invulling aan gegeven in 2025+</p>
-<p>(door o.a. NEN en EZ)</p></th>
-<th>Is nog geen/onvoldoende invulling aan gegeven (door oa NEN en EZ)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Interdepartementale structuren</td>
-<td>Ja</td>
-<td>Nader vormgeven van deze structuren.</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Intersectorale structuren</td>
-<td>Aanwezig</td>
-<td>Meer samenwerken met gebruikersorganisaties, koepels en andere belanghebbenden uit het maatschappelijk middenveld om betere en snellere implementaties te realiseren van standaarden refererend aan wetgeving.</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Overheidsstrategie</td>
-<td>Aanwezig</td>
-<td>Maak specifieke NL belangen en beoogde impact expliciet in de Nationale Normalisatie Agenda (versie dec 2024).</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Beleid</td>
-<td>Aanwezig</td>
-<td></td>
-<td>Besteed in dialoog met brancheorganisaties en industriesectoren meer aandacht aan de praktische uitdagingen (zoals kosten, dekking van functionele eisen) bij de implementatie van standaarden bij het invoeren van nieuwe wetgeving en zorg voor heldere communicatie hierover naar private sector.</td>
-</tr>
-<tr class="odd">
-<td>Regulators</td>
-<td></td>
-<td>RDI is goed aangehaakt bij formele normalisatie, maar andere toezichthouders niet tot nauwelijks.</td>
-<td>Indien NL regulators expliciet gaan focussen op het gebruik van (geharmoniseerde) standaarden, helpt dit bij het adoptieproces ervan (ze verwijzen dan naar te gebruiken standaarden).</td>
-</tr>
-<tr class="even">
-<td>Coördineren en Faciliteren</td>
-<td>Aanwezig</td>
-<td>Versterk nauwe samenwerking tussen private sector, wetenschap en internationale partners op kennis, mobiliseren van experts, faciliteren van interdisciplinaire samenwerking (bijvoorbeeld via kennisinstituut). Duidelijke communicatie over nieuwe wetgeving en geharmoniseerde standaarden.</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Inhoudelijke bijdragen</td>
-<td>In specifieke domeinen zijn diverse (uitvoerings-) organisaties al goed vertegenwoordigd</td>
-<td>Bevorder deelname m.b.t. strategische NL belangen (gebruik EZ-afwegingskader).</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Subsidies en Investeringen</td>
-<td>Aanwezig</td>
-<td>Behoefte aan meer middelen voor bedrijven bij de ondersteuning bij hun standaardisatieactiviteiten<strong>.</strong></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Educatie</td>
-<td>Aanwezig</td>
-<td>Verder uitbouwen richting hoger onderwijs en binnen de overheid zelf.</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Relatie met de EC</td>
-<td>Aanwezig</td>
-<td>Meer strategische afvaardigingen bij Europese SDO’s.</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+    - **Monitoring** van relevante standaardisatie-activiteiten.
+
+    - Het mogelijk maken van **strategische prioritering** van standaardisatie-activiteiten.
+
+    - Bevordering van (**multidisciplinaire**) **samenwerking** tussen de overheid, industriesectoren en de wetenschap, zoals in Duitsland plaatsvindt.
+
+    - **Borging van neutraliteit** in de ontwikkeling van standaarden (als reactie op Big Tech) en daarmee het beschermen van maatschappelijk/publieke waarden.
+
+    - Het zorgen voor de **juiste kaders** bij de ontwikkeling van standaarden.
+
+    - Het faciliteren van kennisdeling van beproefde werkwijzen (**best practices**) omtrent deelname aan standaardisatie-activiteiten ter versterking van de Nederlandse standaardisatie-initiatieven.
+
+    - Prioriteer de inzet van **specifieke technologieën** die de economische en maatschappelijke impact van Nederland vergroten in zowel de Europese als internationale context.
+
+    - Faciliteer **kennisdeling binnen netwerken** tussen overheid en bedrijfsleven door middel van bijeenkomsten, workshops en online platforms.
+
+    - **Mechanisme buiten de ESO-structuur**: Om de Nederlandse belangen te behartigen (daar waar de deelname veel meer direct en op eigen titel, dus niet vanuit NEN, wordt ondersteund) dient het volgende te worden gefaciliteerd: 1) lidmaatschapsopties voor Nederlandse belanghebbenden (door financiële en logistieke ondersteuning te bieden), 2) een nationaal coördinatiemechanisme / -platform voor samenwerking om de Nederlandse inbreng te versterken die niet binnen de ESO-structuur valt. Dit kan bijvoorbeeld door een nationaal coördinator aan te stellen die de deelname van Nederlandse belanghebbenden coördineert en ondersteunt, 3) zorg voor duidelijke communicatie over de specifieke vereisten en structuren van de niet-formele SDO’s.
+
+3.  Stimuleren van de toegankelijkheid van standaardisatie(-activiteiten)  
+    Tenslotte wordt aanbevolen de drempels aan te pakken die volgens de geïnterviewden deelname aan standaardisatie belemmeren. Daarbij wordt gedacht aan:
+
+    - Het bieden van **financiële ondersteuning** en stimulans om het **mkb** te helpen bij deelname aan standaardisatie-activiteiten. Bijvoorbeeld financiering in de energietechniek (energieopslag en laadsystemen).
+
+    - (**Financiële**) **ondersteuning** van **maatschappelijk** relevante trajecten (denk aan privacy).
+
+    - Het bieden van **opleidingen, faciliteren van kennisdeling binnen netwerken** en het verhogen van het **kennisniveau** zowel procesmatig en inhoudelijk over standaardisatie, in samenwerking met het bedrijfsleven / brancheorganisaties en de wetenschap. Dit moet ondersteund worden door **structurele capaciteitsopbouw binnen de overheid**.
 
