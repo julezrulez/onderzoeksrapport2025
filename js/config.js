@@ -1,14 +1,14 @@
 var respecConfig = {
-  useLogo: true,
+  useLogo: false,
   useLabel: true,
 //  license: "CC-BY-4.0",
   specStatus: "basis",
   specType: "basis",
   pubDomain: "",
   shortName: "template",
-  publishDate: "2025-02-05",
-  publishVersion: "0.1.0",
-  title: "Titel staat in config.js",
+  publishDate: "2025-04-01",
+  publishVersion: "1.0.0",
+  title: "Nederland en standaardisatie: kansen benutten",
   // previousPublishVersion: "(none)",
   //content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   /*editors:
@@ -22,7 +22,7 @@ var respecConfig = {
   authors:
     [
       {
-        name: "Naam staat in config.js",
+        name: "ICTU en Dialogic",
         company: "ICTU",
         companyURL: "https://www.ictu.nl/",
       }
